@@ -17,4 +17,4 @@ And here is the interactive version!!
 
 And Here is real version
 
-<iframe height='1000' src='https://doc-viz.herokuapp.com/'></iframe>
+<iframe src='https://doc-viz.herokuapp.com/' onload="this.width=screen.width;this.height=screen.height;"></iframe>
