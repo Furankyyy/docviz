@@ -1,35 +1,21 @@
 # DocViz: A Web Interactive Document Visualization Tool with Sentence-BERT
 
 
-### What is this?
+### What is it?
 
+DocViz is a web app for you to visualize and inspect your documents. You can input up to 4 different documents. The model will compute the vector representation of each sentence in your document, and plot them in a 3D space.
 
 ### How should I use it?
 
+It is easy! Follow the link at the bottom of this page to go to the application page. Input document names and document text into the corresponding boxes, and click on the PLOT button! It may take a while for the results to be shown, so be patient!
 
 ### How does it work?
 
-
-### How should I interpret the visualization?
-
-
-Let's Get Started!
+Check the [How it works]() page for the details, including what models I am using and **how to interpret the visualization**
 
 
-Navigate to [About](https://furankyyy.github.io/docviz/about).
+## Let's Get Started!
 
 
-Here is a sample visualization:
+## [Start the App](https://furankyyy.github.io/docviz/application).
 
-![sample viz](/assets/images/demo1.PNG)
-
-
-
-And here is the interactive version!!
-
-{% include figure.html %}
-
-
-And Here is real version
-
-<iframe src='https://doc-viz.herokuapp.com/' style='height: 1000px; width: 100%;' frameborder="0" scrolling="no"></iframe>
