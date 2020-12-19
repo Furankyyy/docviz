@@ -17,5 +17,7 @@ Check the [How it works]() page for the details, including what models I am usin
 ## Let's Get Started!
 
 
-<p align="center">[Start the App](https://furankyyy.github.io/docviz/application)</p>
+<p align="center">
+    <a href="https://furankyyy.github.io/docviz/application">Start the App</a>
+</p>
 
