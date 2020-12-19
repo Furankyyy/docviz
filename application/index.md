@@ -1,6 +1,1 @@
-## These are the blogs.
-
-
-Should I use this tool?
-
-No. It doesn’t give me much control of the interactive visualizations. I would need to write my own javascript. Other than that it is very good for the project.
+<iframe src='https://doc-viz.herokuapp.com/' style='height: 1000px; width: 100%;' frameborder="0" scrolling="no"></iframe>
