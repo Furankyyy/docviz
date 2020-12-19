@@ -18,6 +18,6 @@ Check the [How it works]() page for the details, including what models I am usin
 
 
 <p align="center">
-    <a href="https://furankyyy.github.io/docviz/application">Start the App</a>
+    <a href="https://furankyyy.github.io/docviz/application" style="font-size: 100px">Start the App</a>
 </p>
 
