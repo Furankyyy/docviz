@@ -17,5 +17,5 @@ Check the [How it works]() page for the details, including what models I am usin
 ## Let's Get Started!
 
 
-## [Start the App](https://furankyyy.github.io/docviz/application)
+<p align="center">[Start the App](https://furankyyy.github.io/docviz/application)</p>
 
