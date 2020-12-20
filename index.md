@@ -11,13 +11,20 @@ It is easy! Follow the link at the bottom of this page to go to the application 
 
 ### How does it work?
 
-Check the [How it works]() page for the details, including what models I am using and **how to interpret the visualization**
+Check the [How it works](https://furankyyy.github.io/docviz/how_it_works) page for the details, including what models I am using and **how to interpret the visualization**
 
+### What should I use it for?
+
+* Get a quick grasp of your text data from a sentence-level perspective.
+* Compare the semantics of different documents from a higher level.
+* Come up with questions and hypotheses of text data.
+* Serve as a stepping stone for further close reading if you have large amounts of documents.
+* If you are interested in NLP and digital humanities!
 
 ## Let's Get Started!
 
 
 <p align="center">
-    <a href="https://furankyyy.github.io/docviz/application" style="font-size: 100px">Start the App</a>
+    <a href="https://furankyyy.github.io/docviz/application" style="font-size: 60px">Start the App</a>
 </p>
 
