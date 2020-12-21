@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 # DocViz: How it works
 
 DocViz allows you to visualize the sentences in your document(s) in a 3D space. Here is the detail of its underlying model, its potential usage, and its limitations.
@@ -41,7 +39,7 @@ Suggestions:
 * With the questions you come up, try to answer them - not only with DocViz, but also through other computational or traditional tools: text mining, topic modeling, close reading... Find more data if possible, come up with concrete hypotheses if possible.
 
 
-<details><summary>**Technical Details**</summary><blockquote>
+<details><summary><strong>**Technical Details**</strong></summary><blockquote>
 
 <details><summary>Sentence-BERT</summary><blockquote>
 
