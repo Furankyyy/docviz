@@ -39,15 +39,15 @@ Suggestions:
 * With the questions you come up, try to answer them - not only with DocViz, but also through other computational or traditional tools: text mining, topic modeling, close reading... Find more data if possible, come up with concrete hypotheses if possible.
 
 
-&nbsp;<details><summary>**Technical Details**</summary><blockquote>
+<details><summary>**Technical Details**</summary><blockquote>
 
-&nbsp;<details><summary>Sentence-BERT</summary><blockquote>
+<details><summary>Sentence-BERT</summary><blockquote>
 
 Sentence-BERT is a framework from [Sentence-Transformer](https://github.com/UKPLab/sentence-transformers) that can generate sentence embeddings from pre-trained BERT models. BERT is a language model pre-trained on BooksCorpus (800M words) and English Wikipedia (2500M words) that can produce contextual word level embeddings. The Sentence-BERT model in DocViz uses Siamese networks and average pooling to obtain sentence-level representations from BERT's output, and is fine-tuned on Natural Language Inference data ([SNLI](https://nlp.stanford.edu/projects/snli/)). The model and training detail can be found in [this paper](https://arxiv.org/pdf/1908.10084.pdf). The paper for the original BERT model is [here](https://arxiv.org/pdf/1810.04805.pdf).
 
 </blockquote></details>
 
-&nbsp;<details><summary>Principal Component Analysis (PCA)</summary><blockquote>
+<details><summary>Principal Component Analysis (PCA)</summary><blockquote>
 
 Principal Component Analysis (PCA) is a dimensional reduction method for increasing interpretability while minimizing information loss. It does so by finding the largest eigenvalues and their corresponding eigenvectors of the data's covariance matrix. You can understand it as defining a new (and smaller) set of dimensions for the data, and represent data in the space made by that set of dimensions, so that the number of dimensions is reduced while information loss is minimized. For more information regarding PCA, you can check [this link](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0202).
 
