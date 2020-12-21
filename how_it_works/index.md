@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # DocViz: How it works
 
 DocViz allows you to visualize the sentences in your document(s) in a 3D space. Here is the detail of its underlying model, its potential usage, and its limitations.
