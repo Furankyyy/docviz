@@ -39,9 +39,17 @@ Suggestions:
 * With the questions you come up, try to answer them - not only with DocViz, but also through other computational or traditional tools: text mining, topic modeling, close reading... Find more data if possible, come up with concrete hypotheses if possible.
 
 
-<details>
-<summary>**Technical Details**</summary>
+<details><summary>**Technical Details**</summary><blockquote>
+
+<details><summary>Sentence-BERT</summary><blockquote>
+
+Sentence-BERT is a framework from [Sentence-Transformer]((https://github.com/UKPLab/sentence-transformers)) that can generate sentence embeddings from pre-trained BERT models.
+
+</blockquote></details>
+
+</blockquote></details>
 
 
- 
-</details>
+<p align="center">
+    <a href="https://furankyyy.github.io/docviz/application" style="font-size: 50px">Start the App</a>
+</p>

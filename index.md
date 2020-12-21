@@ -21,10 +21,10 @@ Check the [How it works](https://furankyyy.github.io/docviz/how_it_works) page f
 * Serve as a stepping stone for further close reading if you have large amounts of documents.
 * If you are interested in NLP and digital humanities!
 
-## Let's Get Started!
+### Let's Get Started!
 
 
 <p align="center">
-    <a href="https://furankyyy.github.io/docviz/application" style="font-size: 60px">Start the App</a>
+    <a href="https://furankyyy.github.io/docviz/application" style="font-size: 50px">Start the App</a>
 </p>
 
