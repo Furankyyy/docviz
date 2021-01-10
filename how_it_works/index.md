@@ -57,7 +57,3 @@ PCA reduces the dimension of sentence embeddings to 3, which allows DocViz to vi
 
 </blockquote></details>
 
-
-<p align="center">
-    <a href="https://furankyyy.github.io/docviz/application" style="font-size: 50px">Start the App</a>
-</p>
